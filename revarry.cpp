@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int swap(int a[],int n){
     int i,temp;
     for(i=0;i<n/2;i++){
